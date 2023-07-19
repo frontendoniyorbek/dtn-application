@@ -14,9 +14,6 @@ const Navbar = () => {
 				<Link className='me-3 py-2 text-dark text-decoration-none' to={'/register'}>
 					Register
 				</Link>
-				<Link className='me-3 py-2 text-dark text-decoration-none' to={'/login'}>
-					Login
-				</Link>
 			</nav>
 		</div>
 	);
